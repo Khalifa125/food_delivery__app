@@ -1,17 +1,25 @@
-# food_delivery
+# food_delivery__app
 
-A new Flutter project.
+A Flutter mobile application built as part of my development portfolio.
+
+## Features
+- Built with Flutter & Dart
+- Cross-platform (Android & iOS)
+- Clean UI with modern design patterns
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+`ash
+git clone https://github.com/Khalifa125/food_delivery__app.git
+cd food_delivery__app
+flutter pub get
+flutter run
+`
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
+- Flutter
+- Dart
+- Android Studio / VS Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# food_delivery__app
+## License
+MIT
